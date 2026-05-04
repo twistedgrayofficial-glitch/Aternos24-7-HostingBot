@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SaltysmpBOT",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": " SaltySmp.aternos.me",
