@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": " SaltySmp.aternos.me:28831",
+    "ip": " SaltySmp.aternos.me",
     "port": 28831,
     "version": "",
     "try-creative": false
